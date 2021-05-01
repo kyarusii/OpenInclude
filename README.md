@@ -11,6 +11,6 @@ Path를 찾아줍니다.
 VSIX Package 입니다.  
 `.shader`, `.hlsl`, `.glsl`, `.cginc` 확장자를 가진 파일에서 작동합니다.  
 
-
+[BLOG](https://seonghwan.tistory.com/1)  
 [MIT LICENSE](../main/LICENSE)  
 [DOWNLOAD](../../releases)  
